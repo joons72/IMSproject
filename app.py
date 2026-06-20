@@ -20,7 +20,7 @@ st.markdown("""
 # --- 상단 헤더 ---
 st.title("🛡️ Privacy-Utility Trade-off Simulator")
 st.markdown("""
-**지능형멀티미디어시스템 프로젝트 데모** 원본 CCTV 프레임(이미지)을 반출하기 전, 선택한 난독화 기법이 객체 탐지(YOLOv8) 및 추적(DeepSORT) 모델에 미치는 **성능 저하(ΔmAP, ΔHOTA)**를 실시간으로 예측합니다.
+**지능형멀티미디어시스템 프로젝트 데모** 원본 CCTV 프레임(이미지)을 반출하기 전, 선택한 난독화 기법이 객체 탐지(YOLOv8) 및 추적(DeepSORT) 모델에 미치는 성능 저하(ΔmAP, ΔHOTA)를 실시간으로 예측합니다.
 """)
 st.divider()
 
